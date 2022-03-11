@@ -2,7 +2,8 @@
   "builtinServers": [
     {
       "name": "Vanilla Tweaks Community Server",
-      "address": "vanillatweaks.xyz"
+      "address": "vanillatweaks.xyz",
+	  "alwaysInclude": true
     }
   ]
 }
